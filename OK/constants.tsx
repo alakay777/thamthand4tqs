@@ -2,7 +2,7 @@
 import React from 'react';
 
 // URL logo từ người dùng cung cấp
-export const LOGO_URL: string = "https://photos.app.goo.gl/KEACz4Zj5SrbNQMq9"; 
+export const LOGO_URL: string = "https://scontent.fhan5-7.fna.fbcdn.net/v/t39.30808-6/557952595_1136300445232379_4568003237823162771_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=vkb7Jz_tNqsQ7kNvwFFkS49&_nc_oc=Adnb21TV53rtlcxyOy3Oitu2nAmTqgqo_zbbweSSXaS9cGsMa7SR0y0hcxEw0p78OIxMHtpd9j-RTY-J9QvsS41i&_nc_zt=23&_nc_ht=scontent.fhan5-7.fna&_nc_gid=wjaATuh06_KsV-dFIlg2EQ&oh=00_Afry2N7ON7M_RUaQOzYi8PftXctUZlurQpQe4kl9elNuZw&oe=6970EB46"; 
 
 export const RANKS = [
   'Binh nhì',
